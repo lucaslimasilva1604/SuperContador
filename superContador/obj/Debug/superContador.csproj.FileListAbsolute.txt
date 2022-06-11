@@ -1,0 +1,8 @@
+C:\curso\superContador\superContador\bin\Debug\superContador.exe.config
+C:\curso\superContador\superContador\bin\Debug\superContador.exe
+C:\curso\superContador\superContador\bin\Debug\superContador.pdb
+C:\curso\superContador\superContador\obj\Debug\superContador.csproj.AssemblyReference.cache
+C:\curso\superContador\superContador\obj\Debug\superContador.csproj.SuggestedBindingRedirects.cache
+C:\curso\superContador\superContador\obj\Debug\superContador.csproj.CoreCompileInputs.cache
+C:\curso\superContador\superContador\obj\Debug\superContador.exe
+C:\curso\superContador\superContador\obj\Debug\superContador.pdb
